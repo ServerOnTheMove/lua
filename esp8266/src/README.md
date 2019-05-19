@@ -1,4 +1,4 @@
-# Project Title
+# LUA for ESP8266, ESP32 and NodeMCU
 Sample and internal modules and scripts for LUA on ESP8266 or NodeMCU
 
 ## Getting Started
