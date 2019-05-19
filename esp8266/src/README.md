@@ -8,7 +8,7 @@ Some are designed as modules, some as scripts to be called dofile()
 Make sure to read inline comments.
 
 ### Wifi Module
-[sotm_wifi.lua](https://github.com/ServerOnTheMove/lua/blob/master/esp8266/src/sotm_wifi.lua)
+[sotm_wifi.lua](sotm_wifi.lua)
 
 Designed as a module, it provides basic functionality to connect to a wifi AP allowing to configure callback functions.
 
