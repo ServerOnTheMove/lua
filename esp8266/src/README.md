@@ -19,7 +19,7 @@ w.connectWIFI("TPPW4G_5F57","idolovej9",true, true)
 ````
  
  ### MQTT on ubeac.io
- [sotm_mqtt_ubeac.lua]()
+ [sotm_mqtt_ubeac.lua](sotm_mqtt_ubeac.lua)
  
  Desgined as a module to simplify integration with ubeac.io IoT Platform
  Functions for
