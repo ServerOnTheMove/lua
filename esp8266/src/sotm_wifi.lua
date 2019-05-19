@@ -4,6 +4,9 @@
     Author: dante@serveronthemove.com.au
     Version: 1.0
 
+    Implementation:
+        We recommend to compile the code where credentials are used - either as default or as arguments in functions
+
     Hardware:
         nodeMCU ESP8266(EX) Devkit V3
     ESP8266 Modules:
